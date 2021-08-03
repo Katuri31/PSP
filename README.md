@@ -1,19 +1,31 @@
 # PSP
 Hi,I am Nithin.This repository includes all the Projcts and practice I have done in my problem solving with python(PSP) course where I did Projects from Scratch,Raptor and Python.
+
+
 Course Syllabus:-
 Unit I: Computational Thinking and Visual Programming Concepts
 Introduction to computational thinking. Visual programming concepts. Scratch environment: sprites -- appearance and motion, angles and directions, repetition and variation, changing costumes, adding a background. Input/Output, variables, and operators.
+
+
 Unit II:  Algorithms and Flowchart design through Raptor
 Introduction to the idea of an algorithm. Pseudocode and Flow charts. Flow chart symbols, Input/Output, Assignment, operators, conditional if, repetition, procedure, and sub-charts. Example problems – Finding maximum of 3 numbers, Unit converters, Interest calculators, multiplication tables, GCD of 2 numbers Example problem -- Fibonacci number generation, prime number generation. Minimum, Maximum, and average of n numbers, Linear search, BinarySearch.
+
+
 Unit III: Introduction to Python
 Python – Numbers, Strings, Variables, operators, expressions, statements, String operations, Math function calls, Input/Output statements, Conditional If, while and for loops, User-defined Functions, parameters to functions, recursive functions, Turtle Graphics.
+
+
 Unit IV: Data Structures and Idiomatic Programming in Python
 Lists, Tuples, Dictionaries, Strings, Files, and their libraries. Beautiful Idiomatic approach to solve programming problems.
+
+
 Unit V: Packages
 Numpy -- Create, reshape, slicing, operations such as min, max, sum, search, sort, math functions, etc. 
 Pandas -- Read/write from csv, excel, json files, add/ drop columns/rows, aggregations, applying functions 
 Matplotlib -- Visualizing data with different plots, use of subplots.
 User-defined packages, define test cases, and perform unit testing
+
+
 Experiments:
 1.Design a script in Scratch to make a sprite to draw geometrical shapes such as Circle, Triangle, Square, Pentagon. 
 2.Design a script in Scratch to make a sprite to ask the user to enter two different numbers and an arithmetic operator and then calculate and display the result.
