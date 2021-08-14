@@ -1,5 +1,6 @@
 # PSP
 Hi,I am Nithin.This repository includes all the Projcts and practice I have done in my problem solving with python(PSP) course where I did Projects from Scratch,Raptor and Python.
+Python and Raptor have seperate folders and coming to scratch i have done in offline scartch(sb3) and uploaded in the master repository which have all common files.
 
 
 Course Syllabus:-
@@ -81,6 +82,8 @@ b. generate N Prime numbers
 21.Design a Python script to generate statistical reports (Minimum, Maximum, Count, Average, Sum etc) on public datasets.
 
 22.Design a Python script using the Turtle graphics library to construct a turtle bar chart representing the grades obtained by N students read from a file categorizing them into distinction, first class, second class, third class and failed.
+
+I Completed This course under the guidance of Ladi Sandeep Kumar Sir.
 
 
 
